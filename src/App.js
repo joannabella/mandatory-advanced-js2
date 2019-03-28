@@ -2,8 +2,6 @@ import React, { Component } from 'react';
 import { BrowserRouter as Router } from 'react-router-dom';
 import { Route } from 'react-router';
 import { Link } from 'react-router-dom';
-import { Helmet } from 'react-helmet';
-import axios from 'axios';
 import './App.css';
 import Home from './Home';
 import Add from './Add';

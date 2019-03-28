@@ -3,7 +3,6 @@ import { Redirect } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
 import Rater from 'react-rater'
 import 'react-rater/lib/react-rater.css'
-import Add from './Add';
 import axios from 'axios';
 
 class Edit extends Component {
